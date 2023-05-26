@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1> Raphael Plump </h1>
+https://i.pinimg.com/originals/a2/43/5f/a2435f56ce6f43befc519284d72dc17b.gif
 <!--
 **Plump07/Plump07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
